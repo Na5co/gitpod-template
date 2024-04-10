@@ -63,12 +63,12 @@
 											}
 										],
 										"url": {
-											"raw": "{{baseUrl}}/spacecrafts/:spacecraftId",
+											"raw": "{{baseUrl}}/shanks/:spacecraftId",
 											"host": [
 												"{{baseUrl}}"
 											],
 											"path": [
-												"spacecrafts",
+												"shanks",
 												":spacecraftId"
 											],
 											"variable": [
