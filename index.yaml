@@ -5,7 +5,7 @@ info:
   description: Buy or rent spacecrafts
 
 paths:
-  /spacecrafts/{spacecraftId}:
+  /spacecraftz/{spacecraftId}:
     parameters:
       - name: spacecraftId
         description: The This is a test unique identifier of the spacecraft
